@@ -2,6 +2,7 @@
 
 ## Integrantes do Grupo
 Nome: Leonardo Gabriel Fusineli Silva           nUSP: 11218841
+Nome: Matheus Wängler Wettstein                 nUSP: 11212682
 
 ## Requisitos:
 
