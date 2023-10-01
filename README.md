@@ -6,7 +6,7 @@ Nome: Matheus Wängler Wettstein                 nUSP: 11212682
 
 ## Requisitos:
 
-Atualmente os requisitos ainda são os mesmos do projeto
+Barra de pesquisa: A aplicação terá uma barra de pesquisa responsável por procurar produtos específicos.
 
 ## Descrição do projeto:
 
