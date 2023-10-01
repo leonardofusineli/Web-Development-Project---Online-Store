@@ -8,6 +8,26 @@ body {
   background-color: #1abc9c;
 }
 
+#myItems {
+  background: #e9e9e9;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  height: 800px;
+  text-align: center;
+}
+
+.item {
+  text-align: center;
+  background-color: #1abc9c;
+  float: left;
+  height: 250px;
+  width: 250px;
+  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .topnav a {
   float: left;
   color: #f2f2f2;
