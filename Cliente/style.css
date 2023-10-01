@@ -30,8 +30,27 @@ body {
 }
 
 /* Create a right-aligned (split) link inside the navigation bar */
-.topnav a.split {
+.topnav a.split, .split {
   float: right;
   background-color: #04AA6D;
   color: white;
+}
+
+.text {
+  overflow: hidden;
+  text-align: center;
+  margin-top: 300px;
+
+}
+.text a{
+  color: #04AA6D;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+.text a:hover {
+  background-color: #ddd;
+  color: black;
 }
